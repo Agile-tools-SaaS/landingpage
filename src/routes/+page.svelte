@@ -77,7 +77,7 @@
 	.logo{
 		width:50px;
 		height:65px;
-		background: url(images/Floboard-logo.svg) no-repeat center;
+		background: url("$lib/images/Floboard-logo.svg") no-repeat center;
 		background-size:contain
 	}
 </style>
